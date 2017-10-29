@@ -1,0 +1,1 @@
+{"jobID":"69fa85ce-09a5-e5f5-6592-21bc43b56648","spec":{"type":"policy","cause":{"Message":"","User":"pradip.caulagi pradip.caulagi@starstable.com"},"spec":{"default/nginx":{"add":{"automated":"true"},"remove":null}}},"result":null}
